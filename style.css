@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital@1&family=Montserrat:ital,wght@0,400;1,300&family=PT+Sans&family=Source+Code+Pro:ital,wght@1,300&display=swap');
+*{
+    background-color: #fff;
+}
+.nav{
+background-color: yellow;
+display: flex;
+margin: 20px 120px;
+padding: 10px 60px;
+border-radius: 20px;
+position: fixed;
+}
+.top-bar{
+    background-color: yellow;
+    list-style:none;
+    font-family: 'Fira Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Source Code Pro', monospace;
+}
+.website{
+    background-color: yellow;
+    font-size:large;
+    font-weight:bolder;
+}
+.moto{
+    background-color: yellow;
+    font-size: small;
+    font-weight: lighter;
+}
+.ip{
+    margin-left:300px;
+    width: 400px;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-width: 0.01px;
+}
+.img1{
+    background-color: yellow;
+    margin-left: 40px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+.groc{
+text-align: center;
+padding-top: 80px;
+padding-bottom: 30px;
+}
+.groc img{
+ width: 500px;
+
+}
+
+.stat{
+    text-align: center;
+    padding: 30px;
+}
+.stat img{
+    width: 500px;
+}
+.food{
+    text-align: center;
+    padding-top: 30px ;
+}
+.food img{
+    width: 500px;
+}
+.s1s2{
+    display: flex;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.s3s4{
+    display: flex;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.tora{
+    padding-left: 150px;
+    width:50%;
+}
+.shopp{
+    text-align: center;
+}
+
+.headerb{
+    text-align: center;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+}
+footer {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    padding: 10px;
+}
+
+.aboutb, .contactb {
+    background-color: #fff;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    margin-bottom: 10px;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+}
+
+footer {
+    margin-top: auto;
+}
+.sm{
+    cursor: pointer;
+    display: flex;
+}
+.sm img{
+    width: 100px;
+}
